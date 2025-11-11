@@ -3,3 +3,4 @@ public class HelloWorld {
         System.out.println("Hello, World!");
     }
 }
+ we have integrated jenkins to ci server
